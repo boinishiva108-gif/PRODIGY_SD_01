@@ -1,7 +1,7 @@
 emperature Converter (Tkinter)
 A simple Python desktop application to convert temperatures between Celsius, Fahrenheit, and Kelvin, built using Tkinter for the GUI.
 
-✨ Features
+Features
 Convert between Celsius ↔ Fahrenheit, Celsius ↔ Kelvin, and Fahrenheit ↔ Kelvin
 
 User-friendly interface built with Tkinter
@@ -15,7 +15,7 @@ Python 3.8+
 
 Tkinter (comes pre-installed with Python)
 
-📦 Installation & Setup
+Installation & Setup
 Clone or download this repository.
 
 Open the folder in your terminal or PowerShell.
@@ -40,7 +40,7 @@ powershell
 Copy
 Edit
 pip install -r requirements.txt
-🚀 Usage
+Usage
 Run the program with:
 
 powershell
@@ -49,8 +49,8 @@ Edit
 python temp_converter.py
 A window will appear where you can enter a temperature, choose a conversion type, and see results instantly.
 
-📸 Screenshot
+Screenshot
 (Add your app screenshot here)
 
-📄 License
+License
 This project is open-source and available under the MIT License.
