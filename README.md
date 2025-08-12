@@ -10,7 +10,7 @@ Supports error handling for invalid inputs
 
 Lightweight and runs locally without internet
 
-🛠️ Requirements
+Requirements
 Python 3.8+
 
 Tkinter (comes pre-installed with Python)
